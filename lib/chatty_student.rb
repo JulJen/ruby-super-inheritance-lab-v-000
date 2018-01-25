@@ -4,7 +4,7 @@ class ChattyStudent < Student
 
   def hello
     super
-    @student
+    hello.sample
   end
 
 end

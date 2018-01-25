@@ -1,6 +1,6 @@
 class Student #parent class /"super"
 
-  attr_accessor :chatty_student
+  # attr_accessor :chatty_student
 
   def hello
   #   @greeting = true

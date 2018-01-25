@@ -5,6 +5,7 @@ class Student #parent class /"super"
   end
 
   def raise_hand
-  end 
+    "Pick me!"
+  end
 
 end

@@ -1,3 +1,3 @@
-class Student
+class Student #parent class /"super"
 
-end 
+end

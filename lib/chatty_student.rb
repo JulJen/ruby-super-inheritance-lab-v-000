@@ -1,0 +1,1 @@
+class Chatty_Student

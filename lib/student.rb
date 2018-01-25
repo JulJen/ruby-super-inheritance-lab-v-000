@@ -8,7 +8,7 @@ class Student #parent class /"super"
 
   def raise_hand
     @hand_raised = true
-    "Pick me!"
+    # "Pick me!"
   end
 
 end
